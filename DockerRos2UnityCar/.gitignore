@@ -3,9 +3,6 @@
 /Logs
 /obj
 /UnityPackageManager
-/Assembly-CSharp.csproj
-/DockerRos2UnityCar.sln
-/saiche01.sln
 
 .consulo/
 *.csproj
