@@ -1,0 +1,7 @@
+- This model was created by the same asset developer 'MS Vehicle System', accessible at this link: 
+https://assetstore.unity.com/packages/tools/physics/ms-vehicle-system-vehicle-controller-88035
+
+- This model is free and can be used in commercial projects with total freedom.
+- The template is free to be edited and used on any projects.
+- The model can not be resold separately as a separate vehicle, only on projects where the vehicle is included.
+- This 3D model is distributed by the official Unity Engine store: https://assetstore.unity.com/

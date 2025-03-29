@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: c5ba2f9267836b74095c5d860af51a34
+timeCreated: 1556833982
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: _LeftFrontWheel
+    100002: _LeftRearWheel
+    100004: _RightFrontWheel
+    100006: _RightRearWheel
+    100008: _SteeringWheel
+    100010: BrakeLight
+    100012: FlashingLightLeft
+    100014: FlashingLightRight
+    100016: HeadLights
+    100018: InternalMesh
+    100020: LeftFrontWheel
+    100022: LeftRearWheel
+    100024: MainLights
+    100026: MainMesh
+    100028: MirrorLeft
+    100030: MirrorRight
+    100032: RightFrontWheel
+    100034: RightRearWheel
+    100036: Seat1
+    100038: Seat2
+    100040: //RootNode
+    100042: SteeringWheel
+    100044: Vehicle7Meshes
+    400000: _LeftFrontWheel
+    400002: _LeftRearWheel
+    400004: _RightFrontWheel
+    400006: _RightRearWheel
+    400008: _SteeringWheel
+    400010: BrakeLight
+    400012: FlashingLightLeft
+    400014: FlashingLightRight
+    400016: HeadLights
+    400018: InternalMesh
+    400020: LeftFrontWheel
+    400022: LeftRearWheel
+    400024: MainLights
+    400026: MainMesh
+    400028: MirrorLeft
+    400030: MirrorRight
+    400032: RightFrontWheel
+    400034: RightRearWheel
+    400036: Seat1
+    400038: Seat2
+    400040: //RootNode
+    400042: SteeringWheel
+    400044: Vehicle7Meshes
+    2300000: BrakeLight
+    2300002: FlashingLightLeft
+    2300004: FlashingLightRight
+    2300006: HeadLights
+    2300008: InternalMesh
+    2300010: LeftFrontWheel
+    2300012: LeftRearWheel
+    2300014: MainLights
+    2300016: MainMesh
+    2300018: MirrorLeft
+    2300020: MirrorRight
+    2300022: RightFrontWheel
+    2300024: RightRearWheel
+    2300026: Seat1
+    2300028: Seat2
+    2300030: SteeringWheel
+    3300000: BrakeLight
+    3300002: FlashingLightLeft
+    3300004: FlashingLightRight
+    3300006: HeadLights
+    3300008: InternalMesh
+    3300010: LeftFrontWheel
+    3300012: LeftRearWheel
+    3300014: MainLights
+    3300016: MainMesh
+    3300018: MirrorLeft
+    3300020: MirrorRight
+    3300022: RightFrontWheel
+    3300024: RightRearWheel
+    3300026: Seat1
+    3300028: Seat2
+    3300030: SteeringWheel
+    4300000: SteeringWheel
+    4300002: RightRearWheel
+    4300004: RightFrontWheel
+    4300006: LeftRearWheel
+    4300008: LeftFrontWheel
+    4300010: MainLights
+    4300012: HeadLights
+    4300014: Seat2
+    4300016: Seat1
+    4300018: InternalMesh
+    4300020: FlashingLightRight
+    4300022: MainMesh
+    4300024: BrakeLight
+    4300026: FlashingLightLeft
+    4300028: MirrorRight
+    4300030: MirrorLeft
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
