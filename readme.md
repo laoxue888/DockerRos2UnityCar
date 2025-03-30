@@ -23,7 +23,7 @@
 
 ## 搭建开发环境（Setup Development Environment）
 
-> - Unity:2020
+> - Unity:2022
 > - Ubuntu:24.04
 > - Ros2:jazzy
 
