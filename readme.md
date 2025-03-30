@@ -2,7 +2,7 @@
 ---
 
 
-# 前言
+## 前言（Introduction）
 
 使用gazebo仿真可以进行机器人与环境交互的仿真，但是仿真环境搭建起来比较复杂，尤其是对于初学者来说，并且难以构建复杂的仿真环境。因此，使用Unity搭建仿真环境会更加简单，并且可以构建更加复杂的仿真环境。
 
@@ -17,19 +17,21 @@
 > - [moveit2_yolobb_ws](https://github.com/laoxue888/moveit2_yolobb_ws)
 > - [Unity-Robotics-Hub](https://github.com/Unity-Technologies/Unity-Robotics-Hub)
 
-# 搭建开发环境
+![alt text](images/test.gif)
+
+## 搭建开发环境（Setup Development Environment）
 
 > - Unity:2020
 > - Ubuntu:24.04
 > - Ros2:jazzy
 
-## window中安装Unity
+## 在window中安装Unity（Install Unity in window）
 
 先安装Unityhuyb，然后再安装Unity
 
 [https://unity.cn/releases](https://unity.cn/releases)
 
-## 创建Docker容器，并安装相关软件
+## 创建Docker容器，并安装相关软件（Create Docker containers and install related software）
 
 ❇️创建Docker容器
 
@@ -92,13 +94,21 @@ apt install python3-pip -y
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 pip install pyside6 xacro ultralytics NodeGraphQt --break-system-packages
 pip install -U colcon-common-extensions vcstool --break-system-packages
+
+pip install pygame --break-system-packages
 ```
 
-# 运行测试
+## 运行测试（Run test）
 
 ❇️打开Unity项目
 
+![alt text](images/image.png)
+
+![alt text](images/image-1.png)
 
 ❇️打开ROS2项目
 
+![alt text](images/image-2.png)
 
+
+![alt text](images/test.gif)

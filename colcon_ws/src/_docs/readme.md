@@ -5,6 +5,7 @@
 
 # 前言
 
+unity和ros2的通信测试。
 
 # 测试
 
@@ -26,5 +27,6 @@ ros2 topic echo /image_talker
 ```
 
 ```shell
-ros2 run teleop_twist_keyboard teleop_twist_keyboard
+source install/setup.bash
+ros2 run unity_control_example unity_control_node
 ```
