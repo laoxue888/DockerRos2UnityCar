@@ -19,7 +19,7 @@
 
 ![alt text](images/test.gif)
 
-[【代码】实现在Unity3D中仿真汽车，而且还能使用ros2控制](https://www.bilibili.com/video/BV1qFZqYDEs2/?vd_source=3bf4271e80f39cfee030114782480463)
+[实现在unity3d中仿真小车，还能用机器人开发框架ros2控制喔](https://www.bilibili.com/video/BV1CGZbY6ESv/?vd_source=3bf4271e80f39cfee030114782480463)
 
 ## 搭建开发环境（Setup Development Environment）
 
