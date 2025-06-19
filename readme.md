@@ -28,7 +28,7 @@ video:
 ❇️创建Docker容器
 
 ```shell
-docker run -it -p 6080:80 -p 10000:10000 -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=host.docker.internal:0.0 -e PULSE_SERVER=host.docker.internal --name=DockerUnityRos2Car333 docker.1ms.run/ubuntu:22.04  /bin/bash
+docker run -it -p 6080:80 -p 10000:10000 -v /tmp/.X11-unix:/tmp/.X11-unix -e DISPLAY=host.docker.internal:0.0 -e PULSE_SERVER=host.docker.internal --name=DockerUnityRos2Car docker.1ms.run/ubuntu:22.04  /bin/bash
 ```
 
 ❇️安装ros2
