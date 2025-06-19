@@ -1,0 +1,14 @@
+{
+    "tasks": [
+        {
+            "label": "source_install_setup",
+            "type": "shell",
+            "command": "source install/setup.bash && env > ${workspaceFolder}/.vscode/.env"
+        },
+        {
+            "label": "launch_source_install_setup",
+            "type": "shell",
+            "command": "source /root/llm_yolo_arm_ws/install/setup.bash && env > ${workspaceFolder}/.vscode/.env"
+        }
+    ]
+}

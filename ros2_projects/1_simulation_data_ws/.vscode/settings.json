@@ -1,0 +1,11 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/root/llm_yolo_arm_ws/install/panda_arm_msg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/root/llm_yolo_arm_ws/install/panda_arm_msg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ],
+    "cmake.sourceDirectory": "/root/llm_yolo_arm_ws/install",
+}
