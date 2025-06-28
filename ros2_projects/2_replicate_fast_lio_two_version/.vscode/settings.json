@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/root/ws_livox/install/panda_arm_msg/lib/python3.12/site-packages",
+        "/opt/ros/humble/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/root/ws_livox/install/panda_arm_msg/lib/python3.12/site-packages",
+        "/opt/ros/humble/lib/python3.12/site-packages"
+    ],
+    "cmake.sourceDirectory": "/root/ws_livox/install",
+    "files.associations": {
+        "functional": "cpp"
+    },
+    "idf.pythonInstallPath": "D:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+}

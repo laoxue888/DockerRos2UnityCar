@@ -9,6 +9,7 @@ EditorBuildSettings:
     path: Assets/Scences/01.unity
     guid: 2c26e90fd62565249889463fab9e14f4
   - enabled: 1
-    path: Assets/Scences/Drift Track.unity
+    path: Assets/Scences/DriftTrack.unity
     guid: e82a0c7cf6aa6504daa551b17979d57e
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

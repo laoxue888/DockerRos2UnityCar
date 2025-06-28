@@ -1,0 +1,18 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "name": "debug fast_lio mapping",
+        "request": "launch",  
+        "target": "${workspaceFolder}/src/FAST_LIO/launch/mapping.launch.py", 
+        "program": "${workspaceFolder}/install/fast_lio/lib/fast_lio/fastlio_mapping",
+        "type": "ros",
+        "MIMode": "gdb",
+        "preLaunchTask": "launch_source_install_setup",
+        "envFile": "${workspaceFolder}/.vscode/.env",
+    }
+  ]
+}

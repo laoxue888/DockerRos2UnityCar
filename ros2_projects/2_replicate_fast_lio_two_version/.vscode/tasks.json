@@ -1,0 +1,9 @@
+{
+    "tasks": [
+        {
+            "label": "launch_source_install_setup",
+            "type": "shell",
+            "command": "source /root/ws_livox/install/setup.bash && env > ${workspaceFolder}/.vscode/.env"
+        },
+    ]
+}
