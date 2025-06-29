@@ -8,6 +8,7 @@
 ![alt text](images/rgbd_lidar.gif)
 
 video:
+> - [2025-6-29:【开源】SLAM技术之FAST_LIO和FAST_LIO2算法复现](https://www.bilibili.com/video/BV158gfzPEea/?vd_source=3bf4271e80f39cfee030114782480463)
 > - [2025-6-19：【开源】SLAM技术之Unity3D仿真激光雷达、RGBD相机、IMU传感器](https://www.bilibili.com/video/BV1twNxz1E7s/?vd_source=3bf4271e80f39cfee030114782480463)
 > - [2025-4-1:【开源】实现在unity3d中仿真小车，还能用机器人开发框架ros2控制喔](https://www.bilibili.com/video/BV1CGZbY6ESv/?vd_source=3bf4271e80f39cfee030114782480463)
 
